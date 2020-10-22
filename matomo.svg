@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="matomo">
+        <g transform="matrix(1,0,0,1,-0.447913,-0.373261)">
+            <path d="M260.257,237.213L282.551,274.211C322.981,313.857 382.383,277.807 365.307,223.539L303.553,130.636C310.679,149.962 308.826,167.512 296.136,182.918L260.257,237.213" style="fill:rgb(149,200,73);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-176.549,88.6364)">
+            <circle cx="257.163" cy="154.112" r="48.078" style="fill:rgb(53,191,193);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,2,-3)">
+            <circle cx="257.163" cy="154.112" r="48.078" style="fill:rgb(242,131,52);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0.929005,-1.12097)">
+            <path d="M44.084,211.139L101.973,120.731C125.634,96.538 152.804,95.795 176.642,119.133L222.869,184.387C246.519,205.84 270.112,204.386 294.591,183.997L235.745,274.136C212.571,298.056 187.611,298.545 160.572,271.747L111.525,207.651C90.175,191.992 68.103,193.278 44.084,211.139Z" style="fill:rgb(49,82,161);"/>
+        </g>
+    </g>
+</svg>

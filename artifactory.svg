@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="artifactory">
+        <rect x="18.015" y="85.606" width="65.026" height="5.971" style="fill:rgb(97,166,58);"/>
+        <g transform="matrix(1,0,0,1,0.499222,-2.03039)">
+            <path d="M49.44,7.476C67.888,7.476 82.865,22.453 82.865,40.901C82.865,59.349 67.888,74.326 49.44,74.326C30.992,74.326 16.015,59.349 16.015,40.901C16.015,22.453 30.992,7.476 49.44,7.476ZM49.44,14.268C64.14,14.268 76.074,26.202 76.074,40.901C76.074,55.6 64.14,67.534 49.44,67.534C34.741,67.534 22.807,55.6 22.807,40.901C22.807,26.202 34.741,14.268 49.44,14.268Z" style="fill:rgb(97,166,58);"/>
+        </g>
+    </g>
+</svg>

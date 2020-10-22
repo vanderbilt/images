@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="ansible" transform="matrix(0.1,0,0,-0.1,0,200)">
+        <path id="path10" d="M805,1853C491,1786 226,1525 150,1208C125,1104 123,932 146,822C210,510 458,253 780,164C873,138 1108,138 1205,164C1613,272 1883,643 1857,1059C1849,1180 1828,1262 1779,1368C1663,1618 1438,1799 1170,1855C1080,1874 898,1873 805,1853ZM1054,1508C1068,1485 1402,685 1415,643C1423,616 1382,570 1350,570C1339,570 1232,648 1102,753C977,854 870,939 863,943C856,948 828,889 778,765L705,580L637,580L570,580L586,617C594,638 680,845 777,1078C874,1311 959,1508 967,1516C990,1538 1037,1534 1054,1508Z" style="fill-rule:nonzero;"/>
+        <path id="path12" d="M952,1200C923,1128 900,1066 900,1061C900,1051 1210,806 1216,812C1220,817 1023,1310 1011,1323C1007,1327 980,1272 952,1200Z" style="fill-rule:nonzero;"/>
+    </g>
+</svg>

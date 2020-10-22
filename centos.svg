@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 188 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="centos" transform="matrix(1.06366,0,0,1.06367,119.961,-979.313)">
+        <g id="g12742" transform="matrix(1,0,0,1,-749.8,-1331.64)">
+            <rect id="rect12744" x="671.984" y="2285.79" width="49.606" height="49.606" style="fill:rgb(156,205,42);fill-rule:nonzero;stroke:white;stroke-width:3.54px;"/>
+            <rect id="rect12746" x="732.221" y="2285.79" width="49.606" height="49.606" style="fill:rgb(147,34,121);fill-rule:nonzero;stroke:white;stroke-width:3.54px;"/>
+            <rect id="rect12748" x="732.221" y="2346.03" width="49.606" height="49.606" style="fill:rgb(239,167,36);fill-rule:nonzero;stroke:white;stroke-width:3.54px;"/>
+            <rect id="rect12750" x="671.984" y="2346.03" width="49.606" height="49.606" style="fill:rgb(38,37,119);fill-rule:nonzero;stroke:white;stroke-width:3.54px;"/>
+        </g>
+        <g id="rect12760" transform="matrix(0.707107,-0.707107,0.707107,0.707107,0,0)">
+            <rect x="-784.629" y="642.409" width="49.606" height="49.606" style="fill:none;stroke:white;stroke-width:3.54px;"/>
+        </g>
+        <g id="rect12762" transform="matrix(0.707107,-0.707107,0.707107,0.707107,0,0)">
+            <rect x="-724.392" y="642.409" width="49.606" height="49.606" style="fill:none;stroke:white;stroke-width:3.54px;"/>
+        </g>
+        <path id="rect12764" d="M-15.378,1009.07L19.699,973.991L54.776,1009.07L19.699,1044.14L-15.378,1009.07Z" style="fill:none;stroke:white;stroke-width:3.54px;"/>
+        <g id="rect12766" transform="matrix(0.707107,-0.707107,0.707107,0.707107,0,0)">
+            <rect x="-784.629" y="702.645" width="49.606" height="49.606" style="fill:none;stroke:white;stroke-width:3.54px;"/>
+        </g>
+    </g>
+</svg>
