@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="r4" transform="matrix(0.302348,0,0,0.302348,36.2841,55.8528)">
+        <g transform="matrix(1.34736,0,0,1.34736,-523.075,-31.8337)">
+            <text x="408.605px" y="93.559px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:75.004px;fill:rgb(3,150,209);">r</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-371.449,0)">
+            <path d="M466.947,59.086C467.176,60.941 467.293,62.829 467.293,64.745C467.293,90.047 446.751,110.589 421.449,110.589C396.147,110.589 375.605,90.047 375.605,64.745C375.605,39.442 396.147,18.9 421.449,18.9C423.066,18.9 424.664,18.984 426.235,19.148L466.947,19.148L466.947,59.086ZM421.332,28.502C441.509,28.502 457.891,44.884 457.891,65.061C457.891,85.239 441.509,101.62 421.332,101.62C401.155,101.62 384.773,85.239 384.773,65.061C384.773,44.884 401.155,28.502 421.332,28.502ZM458.578,39.761L458.578,36.182L450.494,36.182L450.494,34.67L459.442,23.501L461.17,23.501L461.17,34.084L463.669,34.084L463.669,36.182L461.17,36.182L461.17,39.761L458.578,39.761ZM453.641,34.084L458.578,34.084L458.578,27.913L453.641,34.084Z" style="fill:rgb(3,150,209);"/>
+        </g>
+    </g>
+    <g id="emerge" transform="matrix(1,0,0,1,0.5,-10.5)">
+        <g>
+            <g id="merge" transform="matrix(1.28219,0,0,1.28219,-8.30528,-1.15511)">
+                <text x="17.46px" y="38.246px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.784px;">merge</text>
+            </g>
+            <g id="network" transform="matrix(1.20767,0,0,1.20767,-3.4962,-2.69831)">
+                <text x="5.401px" y="59.791px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.784px;">network</text>
+            </g>
+            <g transform="matrix(1.36963,0,0,1.36963,-2.63145,-3.51325)">
+                <text x="5.082px" y="38.067px" style="font-family:'Apple-Chancery', 'Apple Chancery', cursive;font-style:italic;font-size:15.714px;fill:rgb(3,150,209);">e</text>
+            </g>
+        </g>
+    </g>
+</svg>
