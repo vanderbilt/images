@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.02538,0,0,1,-1.51793,0)">
+        <g transform="matrix(446.663,0,0,446.663,929.004,598.021)">
+        </g>
+        <text x="60.245px" y="598.021px" style="font-family:'Avenir-Black', 'Avenir', sans-serif;font-weight:800;font-size:446.663px;fill:rgb(36,68,85);">APS</text>
+    </g>
+    <g transform="matrix(0.949825,0,0,1,-3.65242,-1.9963)">
+        <g transform="matrix(170.82,0,0,170.82,991.362,731.716)">
+        </g>
+        <text x="58.688px" y="731.716px" style="font-family:'Avenir-Black', 'Avenir', sans-serif;font-weight:800;font-size:170.82px;fill:rgb(36,68,85);">Consortium</text>
+    </g>
+    <path d="M503.461,339.826L503.319,416.852L572.37,416.642C586.406,412.019 597.528,405.44 604.825,396.291L604.346,362.287C594.474,351.531 582.788,343.524 568.122,340.034L503.461,339.826" style="fill:rgb(36,68,85);stroke:rgb(36,68,85);stroke-width:1px;"/>
+    <g transform="matrix(1.02889,0,0,1.02889,-15.9969,-16.7832)">
+        <circle cx="546.05" cy="402.355" r="31.189" style="fill:rgb(170,9,9);"/>
+    </g>
+    <path d="M519.497,379.679C535.364,356.971 542.09,345.066 545.548,329.058C550.819,350.283 558.805,362.697 571.881,379.263L519.497,379.679Z" style="fill:rgb(170,9,9);stroke:rgb(170,9,9);stroke-width:1px;"/>
+</svg>
